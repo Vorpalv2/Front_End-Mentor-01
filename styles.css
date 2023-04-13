@@ -34,9 +34,10 @@
       }
       
       p{
-        font-size:15px;
+        font-size:12px;
         text-align:center;
         margin:10px;
+        color: hsl(220, 15%, 55%);
       }
       
       body{
