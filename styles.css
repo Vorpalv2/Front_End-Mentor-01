@@ -34,7 +34,7 @@
       }
       
       p{
-        font-size:12px;
+        font-size:15px;
         text-align:center;
         margin:10px;
         color: hsl(220, 15%, 55%);
@@ -45,6 +45,13 @@
         font-family: 'Outfit', sans-serif;
       }
 
+      @media (max-width :600px) {
+
+        .maincontainer{
+          padding-top: 20%;
+        }
+        
+      }
 
 
 
