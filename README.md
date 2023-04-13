@@ -1,5 +1,8 @@
 # Frontend Mentor - QR code component
 
+MyLink => https://vorpalv2.github.io/Front_End-Mentor-01/
+
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
