@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
     .container{
-      height: 420px;
-      width: 275px;
+      height: 400px;
+      width: 250px;
         /* height :90%;
         width:20%; */
         display:flex;
@@ -16,7 +16,7 @@
       
       .maincontainer{
         display:flex;
-        height:500px;
+        height:700px;
         justify-content:center;
         align-items:center;
       }
